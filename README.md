@@ -1,3 +1,3 @@
-# mycashbook
+# Finance Book
 
-A new Flutter project.
+Aplikasi untuk tracking pemasukan dan pengeluaran uang
